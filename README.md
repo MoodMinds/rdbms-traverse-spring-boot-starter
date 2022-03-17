@@ -1,4 +1,4 @@
-# A [RDBMS Traverse](https://github.com/MoodMinds/rdbms-traverse) for [Spring Boot](https://spring.io/projects/spring-boot) Starter
+# An [RDBMS Traverse](https://github.com/MoodMinds/rdbms-traverse) for [Spring Boot](https://spring.io/projects/spring-boot) Starter
 
 The [Spring Boot](https://spring.io/projects/spring-boot) Starter of the [RDBMS Traverse](https://github.com/MoodMinds/rdbms-traverse)
 basing on the [RDBMS Spring Boot](https://github.com/MoodMinds/rdbms-spring-boot). This is the meta-package including
